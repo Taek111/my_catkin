@@ -1,0 +1,2 @@
+beginner_tutorials:erp42:serial-example
+-DCATKIN_DEVEL_PREFIX=/home/taekwon/my_catkin/devel -DCMAKE_INSTALL_PREFIX=/home/taekwon/my_catkin/install -G Unix Makefiles

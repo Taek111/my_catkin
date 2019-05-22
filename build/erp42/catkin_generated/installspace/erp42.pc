@@ -1,0 +1,8 @@
+prefix=/home/taekwon/my_catkin/install
+
+Name: erp42
+Description: Description of erp42
+Version: 0.0.0
+Cflags: -I/home/taekwon/my_catkin/install/include
+Libs: -L/home/taekwon/my_catkin/install/lib -lDataContainer.h
+Requires: roscpp rospy std_msgs message_runtime

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/taekwon/my_catkin/src/erp42/src/DataContainer.cpp
+DataContainer.h
+/home/taekwon/my_catkin/src/erp42/src/DataContainer.h
+iostream
+-
+mutex
+-
+
+/home/taekwon/my_catkin/src/erp42/src/DataContainer.h
+mutex
+-
+
